@@ -30,7 +30,7 @@ Men tizimli arxitektura va yuqori yuklamali infratuzilmalar qurishga ishtiyoqi b
 
 *   🌱 **I’m currently learning:** **Rust** (memory safety va yuqori tezlik uchun).
 
-*   ⚡ **Fun fact:** I use Arch Linux (btw), have an IQ of 145, and I’m a "one-man army" who can go into a 12-hour **Deep Flow** coding session with some old-school Uzbek music in the background.
+*   ⚡ **Fun fact:**  I’m a "one-man army" who can go into a 12-hour **Deep Flow** coding session with some old-school Uzbek music in the background.
 
 
 
